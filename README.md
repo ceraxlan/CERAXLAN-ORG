@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/CERAXLAN-ORG/CERAXLAN-ORG/main/resources/banner.png" alt="ceraxlan.org">
+<img src="https://raw.githubusercontent.com/ceraxlan/CERAXLAN-ORG/master/resources/banner.png" alt="ceraxlan.org">
 
 <p align="center"> 
   Visitor count<br>
