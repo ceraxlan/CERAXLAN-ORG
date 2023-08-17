@@ -5,3 +5,4 @@
   <img src="https://profile-counter.glitch.me/CERAXLAN-ORG/count.svg" />
 </p>
  
+![Roadmap](./ceraxlan-org-architecture.png)
